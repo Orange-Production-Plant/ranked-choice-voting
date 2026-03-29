@@ -16,3 +16,4 @@ How long would you like each normal period to last? [4 days],How long would you 
 5 days,7 days,"Variable length, each period covering roughly 3 weekend days",4 days,"Variable length, each period covering roughly 2 weekend days"
 5 days,4 days,7 days,"Variable length, each period covering roughly 2 weekend days","Variable length, each period covering roughly 3 weekend days"
 "Variable length, each period covering roughly 2 weekend days","Variable length, each period covering roughly 3 weekend days",4 days,5 days,7 days
+7 days,"Variable length, each period covering roughly 3 weekend days",5 days,"Variable length, each period covering roughly 2 weekend days",4 days
