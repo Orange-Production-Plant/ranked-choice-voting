@@ -1,0 +1,18 @@
+Please rank in order of preference how long you'd like us to spend on each entry in the series. [A month],Please rank in order of preference how long you'd like us to spend on each entry in the series. [5 weeks],Please rank in order of preference how long you'd like us to spend on each entry in the series. [6 weeks],"Please rank in order of preference how long you'd like us to spend on each entry in the series. [No set length, follow period length order]"
+"No set length, follow period length order",A month,5 weeks,6 weeks
+A month,"No set length, follow period length order",5 weeks,6 weeks
+"No set length, follow period length order",6 weeks,5 weeks,A month
+"No set length, follow period length order",6 weeks,5 weeks,A month
+"No set length, follow period length order",A month,5 weeks,6 weeks
+6 weeks,"No set length, follow period length order",5 weeks,A month
+6 weeks,"No set length, follow period length order",5 weeks,A month
+A month,5 weeks,6 weeks,"No set length, follow period length order"
+"No set length, follow period length order",5 weeks,6 weeks,A month
+"No set length, follow period length order",6 weeks,5 weeks,A month
+"No set length, follow period length order",6 weeks,5 weeks,A month
+6 weeks,5 weeks,A month,"No set length, follow period length order"
+"No set length, follow period length order",6 weeks,5 weeks,A month
+A month,5 weeks,6 weeks,"No set length, follow period length order"
+"No set length, follow period length order",5 weeks,6 weeks,A month
+A month,5 weeks,6 weeks,"No set length, follow period length order"
+A month,5 weeks,6 weeks,"No set length, follow period length order"
